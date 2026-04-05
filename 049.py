@@ -22,4 +22,4 @@ print(f'{n} X 10 = {n*10}')
 '''Deixei aqui a 'sobra' do exercicio 09 que eu tinha feito antes e já estava no repositório,
 para que fique de exemplo a diferença entre em codigo e outro'''
 
-print('--------------------------')
+print('---------------------------')
