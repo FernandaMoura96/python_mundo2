@@ -1,29 +1,39 @@
-🐍 Curso de Python - Mundo 2
-Estruturas de Controle e Repetição
-Este repositório contém a minha jornada de aprendizado no Mundo 2 do curso de Python do Prof. Gustavo Guanabara (Curso em Vídeo). Aqui, documento todos os desafios e exercícios práticos focados em lógica de programação intermediária.
+# Python — Estruturas de Controle e Repetição
 
-🚀 Sobre o Mundo 2
-Nesta etapa, o foco é o controle de fluxo do programa. Aprendi a lidar com:
+Repositório com exercícios práticos em Python focados em controle de fluxo, estruturas condicionais e laços de repetição — conceitos fundamentais para automação de processos e análise de dados.
 
-Condições Aninhadas: Criar estruturas de decisão mais complexas (if, elif, else).
+## Conceitos aplicados
 
-Estrutura de Repetição for: Laços com intervalos definidos (como o exercício de soma de pares que fizemos!).
+**Condicionais**
+- Estruturas `if`, `elif`, `else` simples e aninhadas
+- Validação de entradas e tratamento de casos de borda
+- Tomada de decisão com múltiplas condições
 
-Estrutura de Repetição while: Laços com interrupções e condições de parada (break).
+**Repetição com `for`**
+- Iteração sobre intervalos numéricos e sequências
+- Acumuladores, contadores e somatórios
+- Geração de padrões e sequências numéricas
 
-📁 Estrutura do Repositório
-Os exercícios estão organizados por desafios, conforme as aulas:
+**Repetição com `while`**
+- Laços com condição de parada dinâmica
+- Controle de fluxo com `break` e `continue`
+- Validação de entrada em loop até dado válido
 
-Desafio 036 ao 045: Condições em Python (Mundo 2 - Parte 1)
+## Exemplos de problemas resolvidos
 
-Desafio 046 ao 056: Repetições em Python (for).
+| Tipo | Problema |
+|---|---|
+| Condicional | Classificação de faixa etária, categorias de IMC, grau de aprovação |
+| For | Soma de pares em intervalo, tabuada formatada, sequência de Fibonacci |
+| While | Autenticação com tentativas limitadas, menu interativo, acumulador com parada |
 
-Desafio 057 ao 065: Repetições em Python (while).
+## Stack
 
-🛠️ Tecnologias Utilizadas
-Python 3.14
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
+![Git](https://img.shields.io/badge/Git-versionamento-orange?style=flat&logo=git)
 
-PyCharm (Ambiente de Desenvolvimento)
+## Sobre
 
-Git & GitHub (Versionamento)
-
+Desenvolvido por **Fernanda Moura** — Analista de Dados Júnior com background em operações comerciais (Ambev).  
+Portfólio completo: [github.com/FernandaMoura96](https://github.com/FernandaMoura96)  
+LinkedIn: [linkedin.com/in/fernandamoura96](https://linkedin.com/in/fernandamoura96)
