@@ -10,4 +10,5 @@ for pepople in range( 1,8):
         maior +=1
     else:
         menor +=1
-print(f'\033[1;33mAo todo tivemos {maior} pessoas maiores de idade,e \n {menor} pessoas menores de idade')
+print(
+    '\033[1;33mAo todo tivemos {maior} pessoas maiores de idade,e \n {menor} pessoas menores de idade')
