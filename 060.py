@@ -1,9 +1,13 @@
 from math import factorial
-n = int(input( "Digite um número para calcular o fatorial : "))
-c = n
+num = int(input("Digite um número para calcular o fatorial: "))
+c = num
+f = 1
+
+print(f"Calculando {num}! = ", end="")
 while c > 0:
-    print(f"{c} ", end=" ")
-    print( "X " if c > 1 else "=", end=" ")
-    c -= 1
-#print(f"O Fatorial de {n} é = a {c}")
-#termina na proxima aula
+  print(f"{c}", end="")
+  print(" x " if c > 1 else " = ", end="")
+  f *= c
+  c -= 1
+
+print(f"{f}")
